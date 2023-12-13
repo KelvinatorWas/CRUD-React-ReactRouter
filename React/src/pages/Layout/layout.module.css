@@ -1,0 +1,30 @@
+
+.layout {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(116, 123, 90, 0.131);
+    backdrop-filter: blur(px);
+    border-radius: 10px;
+    border: 2px solid rgba(0, 255, 238, 0.411);
+    border-top: none;
+}
+
+.page_data {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    min-width: 1280px;
+    min-height: 640px;
+    padding: 16px 28px;
+    margin-top: 2rem;
+    border-radius: 10px;
+
+    background-color: rgba(240, 248, 255, 0.198);
+    backdrop-filter: blur(12px);
+    border: 2px solid rgba(0, 255, 238, 0.411);
+    border-top: none;
+    color:white;
+
+}

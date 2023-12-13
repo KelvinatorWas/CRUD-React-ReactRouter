@@ -1,0 +1,93 @@
+.card_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+  display: flex;
+  justify-self: center;
+  width: 520px;
+  height: 320px;
+  background-color: rgba(112, 112, 112, 0.408);
+  border-radius: 25px;
+  flex-direction: column;
+  border: 2px solid rgba(0, 255, 238, 0.411);
+}
+
+.data_wrapper__pfp {
+    width: 128px;
+    height: 128px;
+    border-radius: 16px;
+    background:url('/images/default.png');
+    background-size: 100%;
+    aspect-ratio: 1 / 1;
+    border: 2px solid rgba(0, 255, 238, 0.411);
+  
+    margin: 29px 29px 14px 29px;
+}
+
+
+.data_wrapper__main_rect {
+    display: flex;
+    margin-top: 29px;
+    margin-bottom: 14px;
+    margin-right: 29px;
+  
+    border-radius: 16px;
+    background: #808080; 
+    border: 2px solid rgba(0, 255, 238, 0.411);
+    flex-direction: column;
+    padding: 16px;
+    width: 60%;
+}
+
+.card__data_rect {
+    display: flex;
+    margin-right: 29px;
+    margin-left: 29px;
+
+
+    border-radius: 16px;
+    background: #808080;
+    border: 2px solid rgba(0, 255, 238, 0.411);
+    flex-direction: column;
+    padding: 16px;
+}
+
+.card__data_wrapper {
+    display: flex;
+    flex-direction: row;
+}
+  
+.data-wrapper__text{
+    color: #040404;
+    font-family: 'Inter';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 3px 0px;
+}
+
+
+.text_box__type, .text_box__text {
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 12px;
+    font-style: bold;
+    font-weight: 600;
+    margin: 3px;
+    margin-right: 3px;
+}
+  
+.text_box__text {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.text_box {
+    display: grid;
+    grid-template-columns:  0.25fr 1fr;
+    align-items: center;
+}

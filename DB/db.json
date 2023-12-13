@@ -1,0 +1,69 @@
+{
+  "IID": [
+    {
+      "name": "Tico",
+      "species": "Cat",
+      "sex": "Male",
+      "occupation": "Being Cute",
+      "origin": "Mars",
+      "pfp": "cat.png",
+      "birth_year": "2000",
+      "status": "Is eepy.",
+      "description": "",
+      "createdAt": "2023-11-23T14:15:24.450Z",
+      "id": 0
+    },
+    {
+      "name": "John Smith",
+      "species": "Homo Sapien?",
+      "sex": "Male",
+      "occupation": "Builder",
+      "origin": "Mars",
+      "pfp": "john_doe.jpg",
+      "birth_year": "2099",
+      "status": "Alive",
+      "description": "",
+      "createdAt": "2023-12-03T21:12:15.483Z",
+      "id": 2
+    },
+    {
+      "name": "Dog",
+      "species": "Canis familiaris",
+      "sex": "Male",
+      "occupation": "Being a good boy!",
+      "origin": "Earth",
+      "pfp": "dogo.jpg",
+      "birth_year": "2010",
+      "status": "Sleeping",
+      "description": "",
+      "createdAt": "2023-12-04T00:32:42.639Z",
+      "id": 3
+    },
+    {
+      "name": "Mustang",
+      "species": "Car",
+      "sex": "its a car",
+      "occupation": "idk its car",
+      "origin": "Earth",
+      "pfp": "https://i.pinimg.com/originals/94/39/0b/94390b50e16145523416e45d1924e296.jpg",
+      "birth_year": "Unknown",
+      "status": "Unknown",
+      "description": "",
+      "createdAt": "2023-12-04T10:53:57.998Z",
+      "id": 7
+    },
+    {
+      "name": "Jane Doe",
+      "species": "Homo Sapien",
+      "sex": "Female",
+      "occupation": "Unknown",
+      "origin": "Earth",
+      "pfp": "jane_doe.jpg",
+      "birth_year": "2099",
+      "status": "Unknown",
+      "description": "",
+      "createdAt": "2023-12-04T12:38:03.691Z",
+      "id": 8
+    }
+  ]
+}
